@@ -8,4 +8,5 @@
 
     <string name="fragmentOne">FragmentOne</string>
     <string name="onClick">On Click</string>
+    <string name="handler">Handler</string>
 </resources>

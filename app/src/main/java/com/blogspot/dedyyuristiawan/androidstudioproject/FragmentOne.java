@@ -70,5 +70,5 @@ public class FragmentOne extends Fragment {
                         .setAction("Action", null).show();
             }
         }, 3000);
-    }
+    } 
 }
